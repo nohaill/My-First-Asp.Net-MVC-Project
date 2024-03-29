@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Calculate Power Using ASP.NET MVC.props" />
+</Project>

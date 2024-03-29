@@ -1,0 +1,30 @@
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\bin\Debug\net8.0\appsettings.json
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\bin\Debug\net8.0\Calculate Power Using ASP.NET MVC.staticwebassets.runtime.json
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\bin\Debug\net8.0\Calculate Power Using ASP.NET MVC.exe
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\bin\Debug\net8.0\Calculate Power Using ASP.NET MVC.deps.json
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\bin\Debug\net8.0\Calculate Power Using ASP.NET MVC.runtimeconfig.json
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\bin\Debug\net8.0\Calculate Power Using ASP.NET MVC.dll
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\bin\Debug\net8.0\Calculate Power Using ASP.NET MVC.pdb
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\Calculate Power Using ASP.NET MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\Calculate Power Using ASP.NET MVC.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\Calculate Power Using ASP.NET MVC.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\Calculate Power Using ASP.NET MVC.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\Calculate Power Using ASP.NET MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\Calculate Power Using ASP.NET MVC.RazorAssemblyInfo.cache
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\Calculate Power Using ASP.NET MVC.RazorAssemblyInfo.cs
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\staticwebassets\msbuild.Calculate Power Using ASP.NET MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.Calculate Power Using ASP.NET MVC.props
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Calculate Power Using ASP.NET MVC.props
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Calculate Power Using ASP.NET MVC.props
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\scopedcss\bundle\Calculate Power Using ASP.NET MVC.styles.css
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\scopedcss\projectbundle\Calculate Power Using ASP.NET MVC.bundle.scp.css
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\Calculate Power Using ASP.NET MVC.dll
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\refint\Calculate Power Using ASP.NET MVC.dll
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\Calculate Power Using ASP.NET MVC.pdb
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\Calculate Power Using ASP.NET MVC.genruntimeconfig.cache
+C:\Users\dell\OneDrive\Desktop\Calculate Power Using ASP.NET MVC\Calculate Power Using ASP.NET MVC\obj\Debug\net8.0\ref\Calculate Power Using ASP.NET MVC.dll
